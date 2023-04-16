@@ -846,7 +846,7 @@
                                     {
                                         "id": 9,
                                         "cod": 0,
-                                        "tipo": "resposta",
+                                        "tipo": "nota",
                                         "texto": "> Vai buscar, no aposento ao lado, a cestinha; amarra-lhe um lápis; coloca-a sobre o papel; põe-lhe os teus dedos sobre a borda.\n"
                                     },
                                     {
@@ -870,7 +870,7 @@
                                     {
                                         "id": 13,
                                         "cod": 0,
-                                        "tipo": "resposta",
+                                        "tipo": "nota",
                                         "texto": "> Proíbo expressamente que transmitas a quem quer que seja o que acabo de dizer. Da primeira vez que escrever, escreverei melhor.\n"
                                     },
                                     {
@@ -1052,7 +1052,7 @@
                                     {
                                         "id": 5,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "1. Deus é eterno, imutável, imaterial, único, onipotente, soberanamente justo e bom;\n"
                                     },
                                     {
@@ -1064,7 +1064,7 @@
                                     {
                                         "id": 7,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "2. criou o Universo, que abrange todos os seres animados e inanimados, materiais e imateriais;\n"
                                     },
                                     {
@@ -1076,7 +1076,7 @@
                                     {
                                         "id": 9,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "3. os seres materiais constituem o mundo visível ou corpóreo, e os seres imateriais, o mundo invisível ou espírita, isto é, dos Espíritos;\n"
                                     },
                                     {
@@ -1088,7 +1088,7 @@
                                     {
                                         "id": 11,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "4. o mundo espírita é o mundo normal, primitivo, eterno, preexistente e sobrevivente a tudo;\n"
                                     },
                                     {
@@ -1100,7 +1100,7 @@
                                     {
                                         "id": 13,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "5. o mundo corporal é secundário; poderia deixar de existir, ou não ter jamais existido, sem que por isso se alterasse a essência do mundo espírita;\n"
                                     },
                                     {
@@ -1112,7 +1112,7 @@
                                     {
                                         "id": 15,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "6. os Espíritos revestem temporariamente um invólucro material perecível, cuja destruição pela morte lhes restitui a liberdade;\n"
                                     },
                                     {
@@ -1124,7 +1124,7 @@
                                     {
                                         "id": 17,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "7. entre as diferentes espécies de seres corpóreos, Deus escolheu a espécie humana para a encarnação dos Espíritos que chegaram a certo grau de desenvolvimento, dando-lhe superioridade moral e intelectual sobre as outras;\n"
                                     },
                                     {
@@ -1136,7 +1136,7 @@
                                     {
                                         "id": 19,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "8. a alma é um Espírito encarnado, sendo o corpo apenas o seu envoltório;\n"
                                     },
                                     {
@@ -1148,25 +1148,25 @@
                                     {
                                         "id": 21,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "9. há no homem três coisas:\n"
                                     },
                                     {
                                         "id": 22,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "1. o corpo ou ser material análogo aos animais e animado pelo mesmo princípio vital;\n"
                                     },
                                     {
                                         "id": 23,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "2. a alma ou ser imaterial, Espírito encarnado no corpo;\n"
                                     },
                                     {
                                         "id": 24,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "3. o laço que prende a alma ao corpo, princípio intermediário entre a matéria e o Espírito;\n"
                                     },
                                     {
@@ -1178,7 +1178,7 @@
                                     {
                                         "id": 26,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "10. tem assim o homem duas naturezas: pelo corpo, participa da natureza dos animais, cujos instintos lhe são comuns; pela alma, participa da natureza dos Espíritos;\n"
                                     },
                                     {
@@ -1190,7 +1190,7 @@
                                     {
                                         "id": 28,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "11. o laço ou **perispírito**, que prende ao corpo o Espírito, é uma espécie de envoltório semimaterial. A morte é a destruição do invólucro mais grosseiro. O Espírito conserva o segundo, que lhe constitui um corpo etéreo, invisível para nós no estado normal, porém, que pode tornar-se acidentalmente visível e mesmo tangível, como sucede no fenômeno das aparições;\n"
                                     },
                                     {
@@ -1202,7 +1202,7 @@
                                     {
                                         "id": 30,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "12. o Espírito não é, pois, um ser abstrato, indefinido, só possível de conceber-se pelo pensamento. É um ser real, circunscrito, que, em certos casos, se torna apreciável **pela vista**, **pelo ouvido** e **pelo tato**;\n"
                                     },
                                     {
@@ -1214,7 +1214,7 @@
                                     {
                                         "id": 32,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "13. os Espíritos pertencem a diferentes classes e não são iguais, nem em poder, nem em inteligência, nem em saber, nem em moralidade. Os da primeira ordem são os Espíritos superiores, que se distinguem dos outros pela sua perfeição, seus conhecimentos, sua proximidade de Deus, pela pureza de seus sentimentos e por seu amor do bem: são os anjos ou puros Espíritos. Os das outras classes se acham cada vez mais distanciados dessa perfeição, mostrando-se os das categorias inferiores, na sua maioria, eivados das nossas paixões: o ódio, a inveja, o ciúme, o orgulho etc. Comprazem-se no mal. Há também, entre os inferiores, os que não são nem muito bons nem muito maus, antes perturbadores e enredadores, do que perversos. A malícia e as inconsequências parecem ser o que neles predomina. São os Espíritos estúrdios ou levianos;\n"
                                     },
                                     {
@@ -1226,7 +1226,7 @@
                                     {
                                         "id": 34,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "14. os Espíritos não ocupam perpetuamente a mesma categoria. Todos se melhoram passando pelos diferentes graus da hierarquia espírita. Esta melhora se efetua por meio da encarnação, que é imposta a uns como expiação, a outros como missão. A vida material é uma prova que lhes cumpre sofrer repetidamente, até que hajam atingido a absoluta perfeição moral;\n"
                                     },
                                     {
@@ -1238,7 +1238,7 @@
                                     {
                                         "id": 36,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "15. deixando o corpo, a alma volve ao mundo dos Espíritos, donde saíra, para passar por nova existência material, após um lapso de tempo mais ou menos longo, durante o qual permanece em estado de Espírito errante; [^2]:\n"
                                     },
                                     {
@@ -1250,7 +1250,7 @@
                                     {
                                         "id": 38,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "16. tendo o Espírito que passar por muitas encarnações, segue-se que todos nós temos tido muitas existências e que teremos ainda outras, mais ou menos aperfeiçoadas, quer na Terra, quer em outros mundos;\n"
                                     },
                                     {
@@ -1262,7 +1262,7 @@
                                     {
                                         "id": 40,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "17. a encarnação dos Espíritos se dá sempre na espécie humana; seria erro acreditar-se que a alma ou Espírito possa encarnar no corpo de um animal;\n"
                                     },
                                     {
@@ -1274,7 +1274,7 @@
                                     {
                                         "id": 42,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "18. as diferentes existências corpóreas do Espírito são sempre progressivas e nunca regressivas; mas, a rapidez do seu progresso depende dos esforços que faça para chegar à perfeição;\n"
                                     },
                                     {
@@ -1286,7 +1286,7 @@
                                     {
                                         "id": 44,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "19. as qualidades da alma são as do Espírito que está encarnado em nós; assim, o homem de bem é a encarnação de um bom Espírito, o homem perverso a de um Espírito impuro;\n"
                                     },
                                     {
@@ -1298,7 +1298,7 @@
                                     {
                                         "id": 46,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "20. a alma possuía sua individualidade antes de encarnar; conserva-a depois de se haver separado do corpo;\n"
                                     },
                                     {
@@ -1310,7 +1310,7 @@
                                     {
                                         "id": 48,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "21. na sua volta ao mundo dos Espíritos, encontra a alma todos aqueles que conhecera na Terra, e todas as suas existências anteriores se lhe desenham na memória, com a lembrança de todo bem e de todo mal que fez;\n"
                                     },
                                     {
@@ -1322,7 +1322,7 @@
                                     {
                                         "id": 50,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "22. o Espírito encarnado se acha sob a influência da matéria; o homem que vence esta influência, pela elevação e depuração de sua alma, se aproxima dos bons Espíritos, em cuja companhia um dia estará. Aquele que se deixa dominar pelas más paixões, e põe todas as suas alegrias na satisfação dos apetites grosseiros, se aproxima dos Espíritos impuros, dando preponderância à sua natureza animal;\n"
                                     },
                                     {
@@ -1334,7 +1334,7 @@
                                     {
                                         "id": 52,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "23. os Espíritos encarnados habitam os diferentes globos do Universo;\n"
                                     },
                                     {
@@ -1346,7 +1346,7 @@
                                     {
                                         "id": 54,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "24. os não encarnados ou errantes não ocupam uma região determinada e circunscrita; estão por toda parte no espaço e ao nosso lado, vendo-nos e acotovelando-nos de contínuo. É toda uma população invisível, a mover-se em torno de nós;\n"
                                     },
                                     {
@@ -1358,7 +1358,7 @@
                                     {
                                         "id": 56,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "25. os Espíritos exercem incessante ação sobre o mundo moral e mesmo sobre o mundo físico. Atuam sobre a matéria e sobre o pensamento e constituem uma das potências da Natureza, causa eficiente de uma multidão de fenômenos até então inexplicados ou mal explicados e que não encontram explicação racional senão no Espiritismo;\n"
                                     },
                                     {
@@ -1370,7 +1370,7 @@
                                     {
                                         "id": 58,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "26. as relações dos Espíritos com os homens são constantes. Os bons Espíritos nos atraem para o bem, nos sustentam nas provas da vida e nos ajudam a suportá-las com coragem e resignação. Os maus nos impelem para o mal: é-lhes um gozo ver-nos sucumbir e assemelhar-nos a eles;\n"
                                     },
                                     {
@@ -1382,7 +1382,7 @@
                                     {
                                         "id": 60,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "27. as comunicações dos Espíritos com os homens são ocultas ou ostensivas. As ocultas se verificam pela influência boa ou má que exercem sobre nós, à nossa revelia. Cabe ao nosso juízo discernir as boas das más inspirações. As comunicações ostensivas se dão por meio da escrita, da palavra ou de outras manifestações materiais, quase sempre pelos médiuns que lhes servem de instrumentos;\n"
                                     },
                                     {
@@ -1394,7 +1394,7 @@
                                     {
                                         "id": 62,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "28. os Espíritos se manifestam espontaneamente ou mediante evocação;\n"
                                     },
                                     {
@@ -1406,7 +1406,7 @@
                                     {
                                         "id": 64,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "29. podem evocar-se todos os Espíritos: os que animaram homens obscuros, como os das personagens mais ilustres, seja qual for a época em que tenham vivido; os de nossos parentes, amigos, ou inimigos, e obter-se deles, por comunicações escritas ou verbais, conselhos, informações sobre a situação em que se encontram no Além, sobre o que pensam a nosso respeito, assim como as revelações que lhes seja permitido fazer-nos;\n"
                                     },
                                     {
@@ -1418,7 +1418,7 @@
                                     {
                                         "id": 66,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "30. os Espíritos são atraídos na razão da simpatia que lhes inspire a natureza moral do meio que os evoca. Os Espíritos superiores se comprazem nas reuniões sérias, onde predominam o amor do bem e o desejo sincero, por parte dos que as compõem, de se instruírem e melhorarem. A presença deles afasta os Espíritos inferiores que, inversamente, encontram livre acesso e podem obrar com toda a liberdade entre pessoas frívolas ou impelidas unicamente pela curiosidade e onde quer que existam maus instintos. Longe de se obterem bons conselhos, ou informações úteis, deles só se devem esperar futilidades, mentiras, gracejos de mau gosto, ou mistificações, pois que muitas vezes tomam nomes venerados, a fim de melhor induzirem ao erro;\n"
                                     },
                                     {
@@ -1430,7 +1430,7 @@
                                     {
                                         "id": 68,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "31. distinguir os bons dos maus Espíritos é extremamente fácil. Os Espíritos superiores usam constantemente de linguagem digna, nobre, repassada da mais alta moralidade, escoimada de qualquer paixão inferior; a mais pura sabedoria lhes transparece dos conselhos, que objetivam sempre o nosso melhoramento e o bem da Humanidade. A dos Espíritos inferiores, ao contrário, é inconsequente, amiúde trivial e até grosseira. Se, por vezes, dizem alguma coisa boa e verdadeira, muito mais vezes dizem falsidades e absurdos, por malícia ou ignorância. Zombam da credulidade dos homens e se divertem à custa dos que os interrogam, lisonjeando-lhes a vaidade, alimentando-lhes os desejos com falazes esperanças. Em resumo, as comunicações sérias, na mais ampla acepção do termo, só são dadas nos centros sérios, onde reine íntima comunhão de pensamentos, tendo em vista o bem;\n"
                                     },
                                     {
@@ -1442,7 +1442,7 @@
                                     {
                                         "id": 70,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "32. a moral dos Espíritos superiores se resume, como a do Cristo, nesta máxima evangélica: Fazer aos outros o que quereríamos que os outros nos fizessem, isto é, fazer o bem e não o mal. Neste princípio encontra o homem uma regra universal de proceder, mesmo para as suas menores ações;\n"
                                     },
                                     {
@@ -1454,7 +1454,7 @@
                                     {
                                         "id": 72,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "33. ensinam-nos que o egoísmo, o orgulho, a sensualidade são paixões que nos aproximam da natureza animal, prendendo-nos à matéria; que o homem que, já neste mundo, se desliga da matéria, desprezando as futilidades mundanas e amando o próximo, se avizinha da natureza espiritual; que cada um deve tornar-se útil, de acordo com as faculdades e os meios que Deus lhe pôs nas mãos para experimentá-lo; que o **forte** e o **poderoso** devem amparo e proteção ao **fraco**, porquanto transgride a Lei de Deus aquele que abusa da força e do poder para oprimir o seu semelhante. Ensinam, finalmente, que, no mundo dos Espíritos, nada podendo estar oculto, o hipócrita será desmascarado e patenteadas todas as suas torpezas; que a presença inevitável, e de todos os instantes, daqueles para com quem houvermos procedido mal constitui um dos castigos que nos estão reservados; que ao estado de inferioridade e superioridade dos Espíritos correspondem penas e gozos desconhecidos na Terra;\n"
                                     },
                                     {
@@ -1466,7 +1466,7 @@
                                     {
                                         "id": 74,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "34. mas ensinam também não haver faltas irremissíveis que a expiação não possa apagar. Meio de consegui-lo encontra o homem nas diferentes existências que lhe permitem avançar, conforme os seus desejos e esforços, na senda do progresso, para a perfeição, que é o seu destino final.\n"
                                     },
                                     {
@@ -2577,103 +2577,103 @@
                                     {
                                         "id": 17,
                                         "cod": 0,
-                                        "tipo": "resposta",
+                                        "tipo": "nota",
                                         "texto": ">\"Ocupa-te, cheio de zelo e perseverança, do trabalho que empreendeste com o nosso concurso, pois esse trabalho é nosso. Nele pusemos as bases de um novo edifício que se eleva e que um dia há de reunir todos os homens num mesmo sentimento de amor e caridade. Mas, antes de o divulgares, revê-lo-emos juntos, a fim de lhe verificarmos todas as minúcias.\"\n"
                                     },
                                     {
                                         "id": 18,
                                         "cod": 0,
-                                        "tipo": "resposta",
+                                        "tipo": "nota",
                                         "texto": ">\n"
                                     },
                                     {
                                         "id": 19,
                                         "cod": 0,
-                                        "tipo": "resposta",
+                                        "tipo": "nota",
                                         "texto": ">\"Estaremos contigo sempre que o pedires, para te ajudarmos nos teus trabalhos, porquanto esta é apenas uma parte da missão que te está confiada e que já um de nós te revelou.\"\n"
                                     },
                                     {
                                         "id": 20,
                                         "cod": 0,
-                                        "tipo": "resposta",
+                                        "tipo": "nota",
                                         "texto": ">\n"
                                     },
                                     {
                                         "id": 21,
                                         "cod": 0,
-                                        "tipo": "resposta",
+                                        "tipo": "nota",
                                         "texto": ">\"Entre os ensinos que te são dados, alguns há que deves guardar para ti somente, até nova ordem. Quando chegar o momento de os publicares, nós to diremos. Enquanto esperas, medita sobre eles, a fim de estares pronto quando te dissermos.\"\n"
                                     },
                                     {
                                         "id": 22,
                                         "cod": 0,
-                                        "tipo": "resposta",
+                                        "tipo": "nota",
                                         "texto": ">\n"
                                     },
                                     {
                                         "id": 23,
                                         "cod": 0,
-                                        "tipo": "resposta",
+                                        "tipo": "nota",
                                         "texto": ">\"Porás no cabeçalho do livro a cepa que te desenhamos,[^3]: porque é o emblema do trabalho do Criador. Aí se acham reunidos todos os princípios materiais que melhor podem representar o corpo e o espírito. O corpo é a cepa; o espírito é o licor; a alma ou espírito ligado à matéria é o bago. O homem quintessencia o espírito pelo trabalho e tu sabes que só mediante o trabalho do corpo o Espírito adquire conhecimentos.\"\n"
                                     },
                                     {
                                         "id": 24,
                                         "cod": 0,
-                                        "tipo": "resposta",
+                                        "tipo": "nota",
                                         "texto": ">\n"
                                     },
                                     {
                                         "id": 25,
                                         "cod": 0,
-                                        "tipo": "resposta",
+                                        "tipo": "nota",
                                         "texto": ">\"Não te deixes desanimar pela crítica. Encontrarás contraditores encarniçados, sobretudo entre os que têm interesse nos abusos. Encontrá-los-ás mesmo entre os Espíritos, por isso que os que ainda não estão completamente desmaterializados procuram frequentemente semear a dúvida por malícia ou ignorância. Prossegue sempre. Crê em Deus e caminha com confiança: aqui estaremos para te amparar e vem próximo o tempo em que a Verdade brilhará de todos os lados.\"\n"
                                     },
                                     {
                                         "id": 26,
                                         "cod": 0,
-                                        "tipo": "resposta",
+                                        "tipo": "nota",
                                         "texto": ">\n"
                                     },
                                     {
                                         "id": 27,
                                         "cod": 0,
-                                        "tipo": "resposta",
+                                        "tipo": "nota",
                                         "texto": ">\"A vaidade de certos homens, que julgam saber tudo e tudo querem explicar a seu modo, dará nascimento a opiniões dissidentes. Mas todos os que tiverem em vista o grande princípio de Jesus se confundirão num só sentimento: o do amor do bem e se unirão por um laço fraterno, que prenderá o mundo inteiro. Estes deixarão de lado as miseráveis questões de palavras, para só se ocuparem com o que é essencial. E a Doutrina será sempre a mesma, quanto ao fundo, para todos os que receberem comunicações de Espíritos superiores.\"\n"
                                     },
                                     {
                                         "id": 28,
                                         "cod": 0,
-                                        "tipo": "resposta",
+                                        "tipo": "nota",
                                         "texto": ">\n"
                                     },
                                     {
                                         "id": 29,
                                         "cod": 0,
-                                        "tipo": "resposta",
+                                        "tipo": "nota",
                                         "texto": ">\"Com a perseverança é que chegarás a colher os frutos de teus trabalhos. O prazer que experimentarás, vendo a Doutrina propagar-se e bem compreendida, será uma recompensa, cujo valor integral conhecerás, talvez mais no futuro do que no presente. Não te inquietes, pois, com os espinhos e as pedras que os incrédulos ou os maus acumularão no teu caminho. Conserva a confiança: com ela chegarás ao fim e merecerás ser sempre ajudado.\"\n"
                                     },
                                     {
                                         "id": 30,
                                         "cod": 0,
-                                        "tipo": "resposta",
+                                        "tipo": "nota",
                                         "texto": ">\n"
                                     },
                                     {
                                         "id": 31,
                                         "cod": 0,
-                                        "tipo": "resposta",
+                                        "tipo": "nota",
                                         "texto": ">\"Lembra-te de que os bons Espíritos só dispensam assistência aos que servem a Deus com humildade e desinteresse e que repudiam a todo aquele que busca na senda do Céu um degrau para conquistar as coisas da Terra; que se afastam do orgulhoso e do ambicioso. O orgulho e a ambição serão sempre uma barreira erguida entre o homem e Deus. São um véu lançado sobre as claridades celestes, e Deus não pode servir-se do cego para fazer perceptível a luz.\" ❦\n"
                                     },
                                     {
                                         "id": 32,
                                         "cod": 0,
-                                        "tipo": "resposta",
+                                        "tipo": "nota",
                                         "texto": ">\n"
                                     },
                                     {
                                         "id": 33,
                                         "cod": 0,
-                                        "tipo": "resposta",
+                                        "tipo": "nota",
                                         "texto": ">**João Evangelista, Santo Agostinho, São Vicente de Paulo, São Luís, O Espírito de Verdade, Sócrates, Platão, Fénelon, Franklin, Swedenborg, entre outros.**\n"
                                     },
                                     {
@@ -2742,8 +2742,8 @@
                                     {
                                         "id": 1,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[1](#lde.q1). O que é Deus?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "1. O que é Deus?\n"
                                     },
                                     {
                                         "id": 2,
@@ -2766,8 +2766,8 @@
                                     {
                                         "id": 5,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[2](#lde.q2). Que se deve entender por infinito?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "2. Que se deve entender por infinito?\n"
                                     },
                                     {
                                         "id": 6,
@@ -2790,8 +2790,8 @@
                                     {
                                         "id": 9,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[3](#lde.q3). Poder-se-ia dizer que Deus é o infinito?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "3. Poder-se-ia dizer que Deus é o infinito?\n"
                                     },
                                     {
                                         "id": 10,
@@ -2863,8 +2863,8 @@
                                     {
                                         "id": 1,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[4](#lde.q4). Onde se pode encontrar a prova da existência de Deus?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "4. Onde se pode encontrar a prova da existência de Deus?\n"
                                     },
                                     {
                                         "id": 2,
@@ -2899,8 +2899,8 @@
                                     {
                                         "id": 7,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[5](#lde.q5). Que dedução se pode tirar do sentimento instintivo, que todos os homens trazem em si, da existência de Deus?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "5. Que dedução se pode tirar do sentimento instintivo, que todos os homens trazem em si, da existência de Deus?\n"
                                     },
                                     {
                                         "id": 8,
@@ -2923,8 +2923,8 @@
                                     {
                                         "id": 11,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[6](#lde.q6). O sentimento íntimo que temos da existência de Deus não poderia ser fruto da educação, resultado de ideias adquiridas?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "6. O sentimento íntimo que temos da existência de Deus não poderia ser fruto da educação, resultado de ideias adquiridas?\n"
                                     },
                                     {
                                         "id": 12,
@@ -2953,8 +2953,8 @@
                                     {
                                         "id": 16,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[7](#lde.q7). Poder-se-ia achar nas propriedades íntimas da matéria a causa primária da formação das coisas?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "7. Poder-se-ia achar nas propriedades íntimas da matéria a causa primária da formação das coisas?\n"
                                     },
                                     {
                                         "id": 17,
@@ -2983,8 +2983,8 @@
                                     {
                                         "id": 21,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[8](#lde.q8). Que se deve pensar da opinião dos que atribuem a formação primária a uma combinação fortuita da matéria, ou, por outra, ao acaso?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "8. Que se deve pensar da opinião dos que atribuem a formação primária a uma combinação fortuita da matéria, ou, por outra, ao acaso?\n"
                                     },
                                     {
                                         "id": 22,
@@ -3019,8 +3019,8 @@
                                     {
                                         "id": 27,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[9](#lde.q9). Em que é que, na causa primária, se revela uma inteligência suprema e superior a todas as inteligências?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "9. Em que é que, na causa primária, se revela uma inteligência suprema e superior a todas as inteligências?\n"
                                     },
                                     {
                                         "id": 28,
@@ -3074,8 +3074,8 @@
                                     {
                                         "id": 1,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[10](#lde.q10). Pode o homem compreender a natureza íntima de Deus?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "10. Pode o homem compreender a natureza íntima de Deus?\n"
                                     },
                                     {
                                         "id": 2,
@@ -3098,8 +3098,8 @@
                                     {
                                         "id": 5,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[11](#lde.q11). Será dado um dia ao homem compreender o mistério da Divindade?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "11. Será dado um dia ao homem compreender o mistério da Divindade?\n"
                                     },
                                     {
                                         "id": 6,
@@ -3128,8 +3128,8 @@
                                     {
                                         "id": 10,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[12](#lde.q12). Embora não possamos compreender a natureza íntima de Deus, podemos formar idéia de algumas de suas perfeições?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "12. Embora não possamos compreender a natureza íntima de Deus, podemos formar idéia de algumas de suas perfeições?\n"
                                     },
                                     {
                                         "id": 11,
@@ -3152,8 +3152,8 @@
                                     {
                                         "id": 14,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[13](#lde.q13). Quando dizemos que Deus é eterno, infinito, imutável, imaterial, único, onipotente, soberanamente justo e bom, temos ideia completa de seus atributos?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "13. Quando dizemos que Deus é eterno, infinito, imutável, imaterial, único, onipotente, soberanamente justo e bom, temos ideia completa de seus atributos?\n"
                                     },
                                     {
                                         "id": 15,
@@ -3231,8 +3231,8 @@
                                     {
                                         "id": 1,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[14](#lde.q14). Deus é um ser distinto, ou será, como opinam alguns, a resultante de todas as forças e de todas as inteligências do Universo reunidas?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "14. Deus é um ser distinto, ou será, como opinam alguns, a resultante de todas as forças e de todas as inteligências do Universo reunidas?\n"
                                     },
                                     {
                                         "id": 2,
@@ -3255,8 +3255,8 @@
                                     {
                                         "id": 5,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[15](#lde.q15). Que se deve pensar da opinião segundo a qual todos os corpos da Natureza, todos os seres, todos os globos do Universo seriam partes da Divindade e constituiriam, em conjunto, a própria Divindade, ou, por outra, que se deve pensar da doutrina panteísta?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "15. Que se deve pensar da opinião segundo a qual todos os corpos da Natureza, todos os seres, todos os globos do Universo seriam partes da Divindade e constituiriam, em conjunto, a própria Divindade, ou, por outra, que se deve pensar da doutrina panteísta?\n"
                                     },
                                     {
                                         "id": 6,
@@ -3279,8 +3279,8 @@
                                     {
                                         "id": 9,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[16](#lde.q16). Pretendem os que professam esta doutrina achar nela a demonstração de alguns dos atributos de Deus: Sendo infinitos os mundos, Deus é, por isso mesmo, infinito; não havendo o vazio, ou o nada em parte alguma, Deus está por toda parte; estando Deus em toda parte, pois que tudo é parte integrante de Deus, Ele dá a todos os fenômenos da Natureza uma razão de ser inteligente. Que se pode opor a este raciocínio?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "16. Pretendem os que professam esta doutrina achar nela a demonstração de alguns dos atributos de Deus: Sendo infinitos os mundos, Deus é, por isso mesmo, infinito; não havendo o vazio, ou o nada em parte alguma, Deus está por toda parte; estando Deus em toda parte, pois que tudo é parte integrante de Deus, Ele dá a todos os fenômenos da Natureza uma razão de ser inteligente. Que se pode opor a este raciocínio?\n"
                                     },
                                     {
                                         "id": 10,
@@ -3366,8 +3366,8 @@
                                     {
                                         "id": 1,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[17](#lde.q17). É dado ao homem conhecer o princípio das coisas?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "17. É dado ao homem conhecer o princípio das coisas?\n"
                                     },
                                     {
                                         "id": 2,
@@ -3390,8 +3390,8 @@
                                     {
                                         "id": 5,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[18](#lde.q18). Penetrará o homem um dia o mistério das coisas que lhe estão ocultas?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "18. Penetrará o homem um dia o mistério das coisas que lhe estão ocultas?\n"
                                     },
                                     {
                                         "id": 6,
@@ -3414,8 +3414,8 @@
                                     {
                                         "id": 9,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[19](#lde.q19). Não pode o homem, pelas investigações científicas, penetrar alguns dos segredos da Natureza?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "19. Não pode o homem, pelas investigações científicas, penetrar alguns dos segredos da Natureza?\n"
                                     },
                                     {
                                         "id": 10,
@@ -3444,8 +3444,8 @@
                                     {
                                         "id": 14,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[20](#lde.q20). Dado é ao homem receber, sem ser por meio das investigações da Ciência, comunicações de ordem mais elevada acerca do que lhe escapa ao testemunho dos sentidos?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "20. Dado é ao homem receber, sem ser por meio das investigações da Ciência, comunicações de ordem mais elevada acerca do que lhe escapa ao testemunho dos sentidos?\n"
                                     },
                                     {
                                         "id": 15,
@@ -3505,8 +3505,8 @@
                                     {
                                         "id": 1,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[21](#lde.q21). A matéria existe desde toda a eternidade, como Deus, ou foi criada por Ele em dado momento?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "21. A matéria existe desde toda a eternidade, como Deus, ou foi criada por Ele em dado momento?\n"
                                     },
                                     {
                                         "id": 2,
@@ -3529,8 +3529,8 @@
                                     {
                                         "id": 5,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[22](#lde.q22). Define-se geralmente a matéria como o que tem extensão, o que é capaz de nos impressionar os sentidos, o que é impenetrável. São exatas estas definições?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "22. Define-se geralmente a matéria como o que tem extensão, o que é capaz de nos impressionar os sentidos, o que é impenetrável. São exatas estas definições?\n"
                                     },
                                     {
                                         "id": 6,
@@ -3553,8 +3553,8 @@
                                     {
                                         "id": 9,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[22.a](#lde.q22a) Que definição podeis dar da matéria?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "22. a) Que definição podeis dar da matéria?\n"
                                     },
                                     {
                                         "id": 10,
@@ -3589,8 +3589,8 @@
                                     {
                                         "id": 15,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[23](#lde.q23). Que é o espírito?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "23. Que é o espírito?\n"
                                     },
                                     {
                                         "id": 16,
@@ -3613,8 +3613,8 @@
                                     {
                                         "id": 19,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[23.a](#lde.q23). Qual a natureza íntima do espírito?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "23. a) Qual a natureza íntima do espírito?\n"
                                     },
                                     {
                                         "id": 20,
@@ -3637,8 +3637,8 @@
                                     {
                                         "id": 23,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[24](#lde.q24). É o espírito sinônimo de inteligência?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "24. É o espírito sinônimo de inteligência?\n"
                                     },
                                     {
                                         "id": 24,
@@ -3661,8 +3661,8 @@
                                     {
                                         "id": 27,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[25](#lde.q25). O espírito independe da matéria, ou é apenas uma propriedade desta, como as cores o são da luz e o som o é do ar?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "25. O espírito independe da matéria, ou é apenas uma propriedade desta, como as cores o são da luz e o som o é do ar?\n"
                                     },
                                     {
                                         "id": 28,
@@ -3685,8 +3685,8 @@
                                     {
                                         "id": 31,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[25.a](#lde.q25a) Essa união é igualmente necessária para a manifestação do espírito? (Entendemos aqui por espírito o princípio da inteligência, abstração feita das individualidades que por esse nome se designam.)\n"
+                                        "tipo": "pergunta",
+                                        "texto": "25. a) Essa união é igualmente necessária para a manifestação do espírito? (Entendemos aqui por espírito o princípio da inteligência, abstração feita das individualidades que por esse nome se designam.)\n"
                                     },
                                     {
                                         "id": 32,
@@ -3709,8 +3709,8 @@
                                     {
                                         "id": 35,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[26](#lde.q26). Poder-se-á conceber o espírito sem a matéria e a matéria sem o espírito?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "26. Poder-se-á conceber o espírito sem a matéria e a matéria sem o espírito?\n"
                                     },
                                     {
                                         "id": 36,
@@ -3733,8 +3733,8 @@
                                     {
                                         "id": 39,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[27](#lde.q27). Há então dois elementos gerais do Universo: a matéria e o espírito?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "27. Há então dois elementos gerais do Universo: a matéria e o espírito?\n"
                                     },
                                     {
                                         "id": 40,
@@ -3757,8 +3757,8 @@
                                     {
                                         "id": 43,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[27.a](#lde.q27a) Esse fluido será o que designamos pelo nome de eletricidade?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "27. a) Esse fluido será o que designamos pelo nome de eletricidade?\n"
                                     },
                                     {
                                         "id": 44,
@@ -3781,8 +3781,8 @@
                                     {
                                         "id": 47,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[28](#lde.q28). Pois que o espírito é, em si, alguma coisa, não seria mais exato e menos sujeito a confusão dar aos dois elementos gerais as designações de — **matéria inerte** e **matéria inteligente**?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "28. Pois que o espírito é, em si, alguma coisa, não seria mais exato e menos sujeito a confusão dar aos dois elementos gerais as designações de — **matéria inerte** e **matéria inteligente**?\n"
                                     },
                                     {
                                         "id": 48,
@@ -3848,8 +3848,8 @@
                                     {
                                         "id": 1,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[29](#lde..q29). A ponderabilidade é um atributo essencial da matéria?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "29. A ponderabilidade é um atributo essencial da matéria?\n"
                                     },
                                     {
                                         "id": 2,
@@ -3884,8 +3884,8 @@
                                     {
                                         "id": 7,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[30](#lde.q30). A matéria é formada de um só ou de muitos elementos?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "30. A matéria é formada de um só ou de muitos elementos?\n"
                                     },
                                     {
                                         "id": 8,
@@ -3908,8 +3908,8 @@
                                     {
                                         "id": 11,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[31](#lde.q31). Donde se originam as diversas propriedades da matéria?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "31. Donde se originam as diversas propriedades da matéria?\n"
                                     },
                                     {
                                         "id": 12,
@@ -3932,8 +3932,8 @@
                                     {
                                         "id": 15,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[32](#lde.q32). De acordo com o que vindes de dizer, os sabores, os odores, as cores, o som, as qualidades venenosas ou salutares dos corpos não passam de modificações de uma única substância primitiva?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "32. De acordo com o que vindes de dizer, os sabores, os odores, as cores, o som, as qualidades venenosas ou salutares dos corpos não passam de modificações de uma única substância primitiva?\n"
                                     },
                                     {
                                         "id": 16,
@@ -3968,8 +3968,8 @@
                                     {
                                         "id": 21,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[33](#lde.q33). A mesma matéria elementar é suscetível de experimentar todas as modificações e de adquirir todas as propriedades?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "33. A mesma matéria elementar é suscetível de experimentar todas as modificações e de adquirir todas as propriedades?\n"
                                     },
                                     {
                                         "id": 22,
@@ -4004,8 +4004,8 @@
                                     {
                                         "id": 27,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[33.a](#lde.q33a) Não parece que esta teoria dá razão aos que não admitem na matéria senão duas propriedades essenciais: a força e o movimento, entendendo que todas as demais propriedades não passam de efeitos secundários, que variam conforme a intensidade da força e a direção do movimento?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "33. a) Não parece que esta teoria dá razão aos que não admitem na matéria senão duas propriedades essenciais: a força e o movimento, entendendo que todas as demais propriedades não passam de efeitos secundários, que variam conforme a intensidade da força e a direção do movimento?\n"
                                     },
                                     {
                                         "id": 28,
@@ -4028,8 +4028,8 @@
                                     {
                                         "id": 31,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[34](#lde.q34). As moléculas têm forma determinada?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "34. As moléculas têm forma determinada?\n"
                                     },
                                     {
                                         "id": 32,
@@ -4052,8 +4052,8 @@
                                     {
                                         "id": 35,
                                         "cod": 0,
-                                        "tipo": "nota",
-                                        "texto": "[34.a](#lde.q34a). Essa forma é constante ou variável?\n"
+                                        "tipo": "pergunta",
+                                        "texto": "34. a) Essa forma é constante ou variável?\n"
                                     },
                                     {
                                         "id": 36,
@@ -41190,7 +41190,7 @@
                                     {
                                         "id": 4,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "1ª. A dos que negam sistematicamente tudo o que é novo, ou deles não venha, e que falam sem conhecimento de causa. A esta classe pertencem todos os que não admitem senão o que possa ter o testemunho dos sentidos. Nada viram, nada querem ver e ainda menos aprofundar. Ficariam mesmo aborrecidos se vissem as coisas muito claramente, porque forçoso lhes seria convir em que não têm razão. Para eles, o Espiritismo é uma quimera, uma loucura, uma utopia, não existe: está dito tudo. São os incrédulos de caso pensado. Ao lado desses, podem colocar-se os que não se dignam de dar aos fatos a mínima atenção, sequer por desencargo de consciência, a fim de poderem dizer: Quis ver e nada vi. Não compreendem que seja preciso mais de meia hora para alguém se inteirar de uma ciência. \n"
                                     },
                                     {
@@ -41202,7 +41202,7 @@
                                     {
                                         "id": 6,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "2ª. A dos que, sabendo muito bem o que pensar da realidade dos atos, os combatem, todavia, por motivos de interesse pessoal. Para estes, o Espiritismo existe, mas lhe receiam as consequências. Atacam-no como a um inimigo. \n"
                                     },
                                     {
@@ -41214,7 +41214,7 @@
                                     {
                                         "id": 8,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "3ª. A dos que acham na moral espírita uma censura por demais severa aos seus atos ou às suas tendências. Tomado ao sério, o Espiritismo os embaraçaria; não o rejeitam, nem o aprovam: preferem fechar os olhos. Os primeiros são movidos pelo orgulho e pela presunção; os segundos, pela ambição; os terceiros, pelo egoísmo. Concebe-se que, nenhuma solidez tendo, essas causas de oposição venham a desaparecer com o tempo, pois em vão procuraríamos uma quarta classe de antagonistas, a dos que em patentes provas contrárias se apoiassem demonstrando estudo laborioso e porfiado da questão. Todos apenas opõem a negação, nenhum aduz demonstração séria e irrefutável.\n"
                                     },
                                     {
@@ -41443,7 +41443,7 @@
                                     {
                                         "id": 1,
                                         "cod": 0,
-                                        "tipo": "resposta",
+                                        "tipo": "nota",
                                         "texto": "> Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. [...] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo. (KARDEC, Allan. Revista Espírita de 1868. 1. ed. Rio de Janeiro: FEB, 2005. p. 28, janeiro de 1868.)\n"
                                     },
                                     {
@@ -41479,31 +41479,31 @@
                                     {
                                         "id": 7,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "1. O Livro dos Espíritos (1857),\n"
                                     },
                                     {
                                         "id": 8,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "2. O Livro dos Médiuns (1861),\n"
                                     },
                                     {
                                         "id": 9,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "3. O Evangelho segundo o Espiritismo (1864),\n"
                                     },
                                     {
                                         "id": 10,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "4. O Céu e o Inferno (1865),\n"
                                     },
                                     {
                                         "id": 11,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "5. A Gênese (1868),\n"
                                     },
                                     {
@@ -41539,25 +41539,25 @@
                                     {
                                         "id": 17,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "1. todos os seres humanos são Espíritos imortais criados por Deus em igualdade de condições, sujeitos às mesmas leis naturais de progresso que levam todos, gradativamente, à perfeição;\n"
                                     },
                                     {
                                         "id": 18,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "2. o progresso ocorre através de sucessivas experiências, em inúmeras reencarnações, vivenciando necessariamente todos os segmentos sociais, única forma de o Espírito acumular o aprendizado necessário ao seu desenvolvimento;\n"
                                     },
                                     {
                                         "id": 19,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "3. no período entre as reencarnações o Espírito permanece no mundo espiritual, podendo comunicar-se com os homens;\n"
                                     },
                                     {
                                         "id": 20,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "4. o progresso obedece às leis morais ensinadas e vivenciadas por Jesus, nosso guia e modelo, referência para todos os homens que desejam desenvolver-se de forma consciente e voluntária.\n"
                                     },
                                     {
@@ -41629,43 +41629,43 @@
                                     {
                                         "id": 32,
                                         "cod": 0,
-                                        "tipo": "resposta",
+                                        "tipo": "nota",
                                         "texto": "> O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade. (O Livro dos Espíritos, item 207, p. 176.)\n"
                                     },
                                     {
                                         "id": 33,
                                         "cod": 0,
-                                        "tipo": "resposta",
+                                        "tipo": "nota",
                                         "texto": ">\n"
                                     },
                                     {
                                         "id": 34,
                                         "cod": 0,
-                                        "tipo": "resposta",
+                                        "tipo": "nota",
                                         "texto": "> [...] o Espiritismo, restituindo ao Espírito o seu verdadeiro papel na Criação, constatando a superioridade da inteligência sobre a matéria, faz com que desapareçam, naturalmente, todas as distinções estabelecidas entre os homens, conforme as vantagens corporais e mundanas, sobre as quais só o orgulho fundou as castas e os estúpidos preconceitos de cor. (Revista Espírita, 1861, p. 432.)\n"
                                     },
                                     {
                                         "id": 35,
                                         "cod": 0,
-                                        "tipo": "resposta",
+                                        "tipo": "nota",
                                         "texto": ">\n"
                                     },
                                     {
                                         "id": 36,
                                         "cod": 0,
-                                        "tipo": "resposta",
+                                        "tipo": "nota",
                                         "texto": ">Os privilégios de raças têm sua origem na abstração que os homens geralmente fazem do princípio espiritual, para considerar apenas o ser material exterior. Da força ou da fraqueza constitucional de uns, de uma diferença de cor em outros, do nascimento na opulência ou na miséria, da filiação consanguínea nobre ou plebeia, concluíram por uma superioridade ou uma inferioridade natural. Foi sobre este dado que estabeleceram suas leis sociais e os privilégios de raças. Deste ponto de vista circunscrito, são consequentes consigo mesmos, porquanto, não considerando senão a vida material, certas classes parecem pertencer, e realmente pertencem, a raças diferentes. Mas se se tomar seu ponto de vista do ser espiritual, do ser essencial e progressivo, numa palavra, do Espírito, preexistente e sobrevivente a tudo cujo corpo não passa de um invólucro temporário, variando, como a roupa, de forma e de cor; se, além disso, do estudo dos seres espirituais ressalta a prova de que esses seres são de natureza e de origem idênticas, que seu destino é o mesmo, que todos partem do mesmo ponto e tendem para o mesmo objetivo; que a vida corporal não passa de um incidente, uma das fases da vida do Espírito, necessária ao seu adiantamento intelectual e moral; que em vista desse avanço o Espírito pode sucessivamente revestir envoltórios diversos, nascer em posições diferentes, chega-se à consequência capital da igualdade de natureza e, a partir daí, à igualdade dos direitos sociais de todas as criaturas humanas e à abolição dos privilégios de raças. Eis o que ensina o Espiritismo. Vós que negais a existência do Espírito para considerar apenas o homem corporal, a perpetuidade do ser inteligente para só encarar a vida presente, repudiais o único princípio sobre o qual é fundada, com razão, a igualdade de direitos que reclamais para vós mesmos e para os vossos semelhantes. (Revista Espírita, 1867, p. 231.)\n"
                                     },
                                     {
                                         "id": 37,
                                         "cod": 0,
-                                        "tipo": "resposta",
+                                        "tipo": "nota",
                                         "texto": ">\n"
                                     },
                                     {
                                         "id": 38,
                                         "cod": 0,
-                                        "tipo": "resposta",
+                                        "tipo": "nota",
                                         "texto": "> Com a reencarnação, desaparecem os preconceitos de raças e de castas, pois o mesmo Espírito pode tornar a nascer rico ou pobre, capitalista ou proletário, chefe ou subordinado, livre ou escravo, homem ou mulher. De todos os argumentos invocados contra a injustiça da servidão e da escravidão, contra a sujeição da mulher à lei do mais forte, nenhum há que prime, em lógica, ao fato material da reencarnação. Se, pois, a reencarnação funda numa Lei da Natureza o princípio da fraternidade universal, também funda na mesma lei o da igualdade dos direitos sociais e, por conseguinte, o da liberdade. (A Gênese, cap. I, item 36, p. 42-43. Vide também Revista Espírita, 1867, p. 373.)\n"
                                     },
                                     {
@@ -41701,19 +41701,19 @@
                                     {
                                         "id": 44,
                                         "cod": 0,
-                                        "tipo": "resposta",
+                                        "tipo": "nota",
                                         "texto": "> Nós trabalhamos para dar a fé aos que em nada creem; para espalhar uma crença que os torna melhores uns para os outros, que lhes ensina a perdoar aos inimigos, a se olharem como irmãos, sem distinção de raça, casta, seita, cor, opinião política ou religiosa; numa palavra, uma crença que faz nascer o verdadeiro sentimento de caridade, de fraternidade e deveres sociais. (KARDEC, Allan. Revista Espírita de 1863 – 1. ed. Rio de Janeiro: FEB, 2005. – janeiro de 1863.)\n"
                                     },
                                     {
                                         "id": 45,
                                         "cod": 0,
-                                        "tipo": "resposta",
+                                        "tipo": "nota",
                                         "texto": ">\n"
                                     },
                                     {
                                         "id": 46,
                                         "cod": 0,
-                                        "tipo": "resposta",
+                                        "tipo": "nota",
                                         "texto": "> O homem de bem é bom, humano e benevolente para com todos, sem distinção de raças nem de crenças, porque em todos os homens vê irmãos seus. (O Evangelho segundo o Espiritismo, cap. XVII, item 3, p. 348.)\n"
                                     },
                                     {
@@ -41737,7 +41737,7 @@
                                     {
                                         "id": 50,
                                         "cod": 0,
-                                        "tipo": "resposta",
+                                        "tipo": "nota",
                                         "texto": "> Quando, na Revista Espírita de janeiro de 1862, publicamos um artigo sobre a “interpretação da doutrina dos anjos decaídos”, apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controversa, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decidido, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana justiça de Deus, mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica. (A Gênese, cap. XI, item 43, Nota, p. 292.)\n"
                                     },
                                     {
@@ -41761,7 +41761,7 @@
                                     {
                                         "id": 54,
                                         "cod": 0,
-                                        "tipo": "resposta",
+                                        "tipo": "nota",
                                         "texto": "> É verdade que esta e outras questões se afastam do ponto de vista moral, que é a meta essencial do Espiritismo. Eis por que seria um equívoco fazê-las objeto de preocupações constantes. Sabemos, aliás, no que respeita ao princípio das coisas, que os Espíritos, por não saberem tudo, só dizem o que sabem ou que pensam saber. Mas como há pessoas que poderiam tirar da divergência desses sistemas uma indução contra a unidade do Espiritismo, precisamente porque são formulados pelos Espíritos, é útil poder comparar as razões pró e contra, no interesse da própria doutrina, e apoiar no assentimento da maioria o julgamento que se pode fazer do valor de certas comunicações. (Revista Espírita, 1862, p. 38.)\n"
                                     },
                                     {
@@ -42322,7 +42322,7 @@
                                     {
                                         "id": 78,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "134a, 134b, 139\n"
                                     },
                                     {
@@ -49418,7 +49418,7 @@
                                     {
                                         "id": 398,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "194a, 778, 805\n"
                                     },
                                     {
@@ -50403,7 +50403,7 @@
                                     {
                                         "id": 7,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "852, 872, 919a\n"
                                     },
                                     {
@@ -54488,7 +54488,7 @@
                                     {
                                         "id": 160,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "1004, 1006-1008\n"
                                     },
                                     {
@@ -59708,7 +59708,7 @@
                                     {
                                         "id": 69,
                                         "cod": 0,
-                                        "tipo": "pergunta",
+                                        "tipo": "nota",
                                         "texto": "612, 789, 985, 991\n"
                                     },
                                     {

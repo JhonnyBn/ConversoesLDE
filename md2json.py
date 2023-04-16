@@ -29,15 +29,28 @@ verso.tipo = nota | pergunta | resposta
 """
 import json
 
-def verificar_tipo(linha):
-	if linha[0].isnumeric():
-		return "pergunta"
-	if linha[0] == ">":
-		return "resposta"
+def verificar_tipo(linha, parte):
+	if 1 <= parte <= 4:
+		if linha[0].isnumeric():
+			return "pergunta"
+		if linha[0] == "[" and linha[1].isnumeric():
+			return "pergunta"
+		if linha[0] == ">":
+			return "resposta"
 	return "nota"
 
 def gerar_codigo(linha):
 	return 0
+
+def filtrar(linha):
+	# verifica se pergunta tem hyperlink e o remove
+	if linha[0] == "[" and linha[1].isnumeric():
+		numero = linha.split("]")[0][1:]
+		texto = " ".join(linha.split(" ")[1:])
+		if len(numero.split(".")) > 1:
+			return numero.split(".")[0] + ". " + numero.split(".")[1] + ") " + texto
+		return numero + ". " + texto
+	return linha
 
 livros = []
 with open("lde-single-file.md", encoding="utf8") as arquivo:
@@ -72,7 +85,7 @@ with open("lde-single-file.md", encoding="utf8") as arquivo:
 				livros[livro]["partes"][parte]["capitulos"][capitulo]["itens"].append(obj)
 			elif importancia == 5: # indice geral
 				verso += 1
-				tipo = verificar_tipo(linha)
+				tipo = verificar_tipo(linha, parte)
 				cod = gerar_codigo(linha)
 				obj = {'id': verso, 'cod': cod, 'tipo': tipo, 'texto': linha}
 				livros[livro]["partes"][parte]["capitulos"][capitulo]["itens"][item]["versos"].append(obj)
@@ -84,9 +97,9 @@ with open("lde-single-file.md", encoding="utf8") as arquivo:
 			obj = {'id': item, 'cod': gerar_codigo(linha), 'nome': "", 'versos': []}
 			livros[livro]["partes"][parte]["capitulos"][capitulo]["itens"].append(obj)
 		verso += 1
-		tipo = verificar_tipo(linha)
+		tipo = verificar_tipo(linha, parte)
 		cod = gerar_codigo(linha)
-		obj = {'id': verso, 'cod': cod, 'tipo': tipo, 'texto': linha}
+		obj = {'id': verso, 'cod': cod, 'tipo': tipo, 'texto': filtrar(linha)}
 		#print(livro, parte, capitulo, item, verso, linha)
 		#print(livros)
 		livros[livro]["partes"][parte]["capitulos"][capitulo]["itens"][item]["versos"].append(obj)
