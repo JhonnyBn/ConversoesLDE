@@ -1,14 +1,7 @@
 import json
-import re
+import csv
 
-def filtro(verso, parte, capitulo):
-	if parte["id"] > 5 and capitulo["id"] == 1:
-		if len(verso["texto"]) > 5:
-			q = re.split('(\d+)', verso["texto"])
-			if len(q) > 1 and q[-2].isnumeric():
-				numero = q[-2]
-				letra = q[-1][:-2]
-				return " ".join(verso["texto"].split(" ")[:-1]) + " [lde.q" + numero + letra + "](#lde.q" + numero + letra + ")\n"
+def filtro(verso):
 	if verso["tipo"] == "pergunta":
 		codlivro = "lde"
 		texto = verso["texto"]
@@ -31,22 +24,28 @@ def filtro(verso, parte, capitulo):
 			return "[" + numero + "](#" + codlivro + ".q" + numero + "). " + texto
 	return verso["texto"]
 
+def save_csv(data):
+	fname = 'output.csv'
+	header = ["Livro", "Parte", "Capítulo", "Item", "Subitem", "Index", "Tipo", "Texto"]
+	with open(fname, 'w', encoding='utf-8', newline='') as f:
+		writer = csv.writer(f)
+		writer.writerow(header)
+		writer.writerows(data)
+	return
+
 with open("livros.json", encoding='utf-8') as arquivo:
 	livros = json.load(arquivo)
 
 #print(livros)
-
+data = []
 with open("output.md", "w", encoding='utf-8') as arquivo:
 	for livro in livros:
-		arquivo.write("# 📔 /" + livro["cod"] + "/ " + livro["nome"])
 		for parte in livro["partes"]:
-			arquivo.write("## 🗂️ /" + parte["cod"] + "/ " + parte["nome"])
 			for capitulo in parte["capitulos"]:
-				arquivo.write("### 📑 /" + capitulo["cod"] + "/ " + capitulo["nome"])
 				for item in capitulo["itens"]:
-					if item["nome"]:
-						arquivo.write("#### 📃 /" + item["cod"] + "/ " + item["nome"])
 					for verso in item["versos"]:
-						arquivo.write(filtro(verso, parte, capitulo))
+						if verso["texto"] != "\n":
+							data.append([livro["id"], parte["id"], capitulo["id"], item["id"], verso["id"], item["cod"], verso["tipo"], verso["texto"]])
 
+save_csv(data)
 
