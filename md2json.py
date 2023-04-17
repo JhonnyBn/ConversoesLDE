@@ -66,7 +66,7 @@ livros = []
 with open("lde-single-file.md", encoding="utf8") as arquivo:
 	livro = parte = capitulo = item = verso = -1
 	for linha in arquivo:
-		if not linha or linha == "\n" or linha == "---\n":
+		if not linha or linha == "\n":
 			continue # pula linhas vazias
 		if linha[0] in ["#"]: # capitulo
 			importancia = len(linha.split(" ")[0])

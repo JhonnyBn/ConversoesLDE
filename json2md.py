@@ -38,6 +38,7 @@ with open("livros.json", encoding='utf-8') as arquivo:
 
 #print(livros)
 
+anterior = ""
 with open("output.md", "w", encoding='utf-8') as arquivo:
 	for livro in livros:
 		arquivo.write("# 📔 /" + livro["cod"] + "/ " + livro["nome"] + "\n")
@@ -49,6 +50,9 @@ with open("output.md", "w", encoding='utf-8') as arquivo:
 					if item["nome"]:
 						arquivo.write("#### 📃 /" + item["cod"] + "/ " + item["nome"] + "\n")
 					for verso in item["versos"]:
-						arquivo.write(filtro(verso, parte, capitulo) + "\n")
+						if verso["tipo"] == "resposta":
+							arquivo.write(filtro(verso, parte, capitulo))
+						else:
+							arquivo.write(filtro(verso, parte, capitulo) + "\n")
 
 
