@@ -35,8 +35,8 @@ def verificar_tipo(linha, parte):
 			return "pergunta"
 		if linha[0] == "[" and linha[1].isnumeric():
 			return "pergunta"
-		if linha[0] == ">":
-			return "resposta"
+	if linha[0] == ">":
+		return "resposta"
 	return "nota"
 
 def gerar_codigo(linha):
@@ -60,7 +60,7 @@ def remove_hl(linha):
 	return linha
 
 def remove_nl(line):
-	return line[:-2] if line[-2] == "\n" else line
+	return line[:-1] if line[-1:] == "\n" else line
 
 livros = []
 with open("lde-single-file.md", encoding="utf8") as arquivo:
