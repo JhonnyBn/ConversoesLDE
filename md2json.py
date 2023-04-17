@@ -43,6 +43,13 @@ def gerar_codigo(linha):
 	return 0
 
 def filtrar(linha):
+	if not linha:
+		return linha
+	linha = remove_hl(linha)
+	linha = remove_nl(linha)
+	return linha
+
+def remove_hl(linha):
 	# verifica se pergunta tem hyperlink e o remove
 	if linha[0] == "[" and linha[1].isnumeric():
 		numero = linha.split("]")[0][1:]
@@ -52,16 +59,19 @@ def filtrar(linha):
 		return numero + ". " + texto
 	return linha
 
+def remove_nl(line):
+	return line[:-2] if line[-2] == "\n" else line
+
 livros = []
 with open("lde-single-file.md", encoding="utf8") as arquivo:
 	livro = parte = capitulo = item = verso = -1
 	for linha in arquivo:
-		if not linha:
+		if not linha or linha == "\n" or linha == "---\n":
 			continue # pula linhas vazias
 		if linha[0] in ["#"]: # capitulo
 			importancia = len(linha.split(" ")[0])
 			cod = linha.split(" ")[2][1:-1]
-			nome = " ".join(linha.split(" ")[3:])
+			nome = filtrar(" ".join(linha.split(" ")[3:]))
 			obj = {'cod': cod, 'nome': nome}
 			if importancia == 1: # livro
 				livro += 1
@@ -87,7 +97,7 @@ with open("lde-single-file.md", encoding="utf8") as arquivo:
 				verso += 1
 				tipo = verificar_tipo(linha, parte)
 				cod = gerar_codigo(linha)
-				obj = {'id': verso, 'cod': cod, 'tipo': tipo, 'texto': linha}
+				obj = {'id': verso, 'cod': cod, 'tipo': tipo, 'texto': filtrar(linha)}
 				livros[livro]["partes"][parte]["capitulos"][capitulo]["itens"][item]["versos"].append(obj)
 			continue
 		# versos

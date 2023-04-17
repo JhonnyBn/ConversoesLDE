@@ -4959,7 +4959,7 @@ Não é possível que Deus se contradiga, nem que ache mau o que Ele próprio fe
 
 ---
 
-#### 📃 Poligamia
+#### 📃 /lde.3.04.5/ Poligamia
 
 700. A igualdade numérica, que mais ou menos existe entre os sexos, constitui indício da proporção em que devam unir-se?
 
