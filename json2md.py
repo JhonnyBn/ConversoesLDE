@@ -26,9 +26,9 @@ def filtro(verso, parte, capitulo):
 		#[30](#lde.q30).
 		#[33.a](#lde.q33a)
 		if subitem:
-			return "##### [" + numero + "." + subitem + "](#" + codlivro + ".q" + numero + subitem + "). " + texto
+			return "[" + numero + "." + subitem + "](#" + codlivro + ".q" + numero + subitem + "). " + texto
 		else:
-			return "##### [" + numero + "](#" + codlivro + ".q" + numero + "). " + texto
+			return "[" + numero + "](#" + codlivro + ".q" + numero + "). " + texto
 	return verso["texto"]
 
 with open("livros.json", encoding='utf-8') as arquivo:
@@ -36,7 +36,7 @@ with open("livros.json", encoding='utf-8') as arquivo:
 
 #print(livros)
 
-with open("output2.md", "w", encoding='utf-8') as arquivo:
+with open("output.md", "w", encoding='utf-8') as arquivo:
 	for livro in livros:
 		arquivo.write("# 📔 /" + livro["cod"] + "/ " + livro["nome"])
 		for parte in livro["partes"]:
