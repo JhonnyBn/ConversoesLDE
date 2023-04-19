@@ -4,19 +4,13 @@ def filtro(verso, parte, capitulo):
 	"""
 	if parte["id"] > 5 and capitulo["id"] == 1:
 		if len(verso["texto"]) > 5:
-			q = re.split('(\d+)', verso["texto"])
-			if len(q) > 1 and q[-2].isnumeric():
-				numero = q[-2]
-				letra = q[-1][:-2]
-				return " ".join(verso["texto"].split(" ")[:-1]) + " [lde.q" + numero + letra + "](#lde.q" + numero + letra + ")\n"
-	"""
-	if parte["id"] > 5 and capitulo["id"] == 1:
-		if len(verso["texto"]) > 5:
 			linha = verso["texto"]
 			tokens = linha.split(" ")
 			if tokens[-1][:3] == "lde":
 				cod = " [" + tokens[-1] + "](#" + tokens[-1] + ")\n"
 				return " ".join(tokens[:-1]) + cod
+	"""
+	"""
 	if verso["tipo"] == "pergunta":
 		codlivro = "lde"
 		texto = verso["texto"]
@@ -37,6 +31,10 @@ def filtro(verso, parte, capitulo):
 			return "[" + numero + "." + subitem + "](#" + codlivro + ".q" + numero + subitem + "). " + texto
 		else:
 			return "[" + numero + "](#" + codlivro + ".q" + numero + "). " + texto
+	"""
+	if verso["tipo"] == "pergunta":
+		if verso["texto"][0] != "`":
+			return "`" + verso["cod"] + "` " + verso["texto"]
 	return verso["texto"]
 
 with open("livros.json", encoding='utf-8') as arquivo:

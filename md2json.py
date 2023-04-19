@@ -35,12 +35,23 @@ def verificar_tipo(linha, parte):
 			return "pergunta"
 		if linha[0] == "[" and linha[1].isnumeric():
 			return "pergunta"
+		if linha[0] == "`" and linha[6].isnumeric():
+			return "pergunta"
 	if linha[0] == ">":
 		return "resposta"
 	return "nota"
 
-def gerar_codigo(linha):
-	return 0
+def gerar_codigo(linha, tipo):
+	if tipo != "pergunta":
+		return 0
+	if linha[0] == "`":
+		return linha.split("`")[1]
+	livro = "lde"
+	tokens = linha.split(" ")
+	pergunta = tokens[0][:-1]
+	letra = tokens[1][:-1] if tokens[1][-1] == ")" else ""
+	cod = livro + ".q" + pergunta + letra
+	return cod
 
 def filtrar(linha):
 	if not linha:
@@ -97,7 +108,7 @@ with open("lde-single-file.md", encoding="utf8") as arquivo:
 			elif importancia == 5: # indice geral
 				verso += 1
 				tipo = verificar_tipo(linha, parte)
-				cod = gerar_codigo(linha)
+				cod = gerar_codigo(linha, tipo)
 				obj = {'id': verso, 'cod': cod, 'tipo': tipo, 'texto': filtrar(linha)}
 				livros[livro]["partes"][parte]["capitulos"][capitulo]["itens"][item]["versos"].append(obj)
 			continue
@@ -105,11 +116,13 @@ with open("lde-single-file.md", encoding="utf8") as arquivo:
 		if item == -1:
 			item += 1
 			verso = -1
-			obj = {'id': item, 'cod': gerar_codigo(linha), 'nome': "", 'versos': []}
+			tipo = verificar_tipo(linha, parte)
+			cod = gerar_codigo(linha, tipo)
+			obj = {'id': item, 'cod': cod, 'nome': "", 'versos': []}
 			livros[livro]["partes"][parte]["capitulos"][capitulo]["itens"].append(obj)
 		verso += 1
 		tipo = verificar_tipo(linha, parte)
-		cod = gerar_codigo(linha)
+		cod = gerar_codigo(linha, tipo)
 		obj = {'id': verso, 'cod': cod, 'tipo': tipo, 'texto': filtrar(linha)}
 		#print(livro, parte, capitulo, item, verso, linha)
 		#print(livros)

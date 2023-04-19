@@ -1549,7 +1549,7 @@ Durante a vida, o Espírito se acha preso ao corpo pelo seu envoltório semi-mat
 
 ---
 
-1.   A alma tem consciência de si mesma imediatamente depois de deixar o corpo?
+163. A alma tem consciência de si mesma imediatamente depois de deixar o corpo?
 
 >“Imediatamente não é bem o termo. A alma passa algum tempo em estado de perturbação.”
 >Na morte natural, a que sobrevém pelo esgotamento dos órgãos, em consequência da idade, o homem deixa a vida sem o perceber: é uma lâmpada que se apaga por falta de óleo.
