@@ -68,10 +68,11 @@ with open("lde-single-file.md", encoding="utf8") as arquivo:
 	for linha in arquivo:
 		if not linha or linha == "\n":
 			continue # pula linhas vazias
-		if linha[0] in ["#"]: # capitulo
-			importancia = len(linha.split(" ")[0])
-			cod = linha.split(" ")[2][1:-1]
-			nome = filtrar(" ".join(linha.split(" ")[3:]))
+		if linha[0] == "#": # capitulo
+			hashtags = linha.split(" ")
+			importancia = len(hashtags[0])
+			cod = hashtags[1][1:-1] if hashtags[1][1:4] == "lde" else hashtags[2][1:-1]
+			nome = filtrar(" ".join(hashtags[3:]))
 			obj = {'cod': cod, 'nome': nome}
 			if importancia == 1: # livro
 				livro += 1
