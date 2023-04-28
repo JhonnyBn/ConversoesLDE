@@ -7315,11 +7315,11 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 
 ---
 
-### `lde.6.2` 📑 2. Índice Geral
+### `lde.6.2` 🗃️ 2. Índice Geral
 
 ---
 
-#### `lde.6.2.01` 📃 A
+#### `lde.6.2.01` 🗂️ A
 
 ##### 🟨 Aberração
 
@@ -7873,7 +7873,7 @@ ver Antepassados
 
 ---
 
-#### `lde.6.2.02` 📃 B
+#### `lde.6.2.02` 🗂️ B
 
 ##### 🟨 Batista, João
 
@@ -7979,7 +7979,7 @@ linguagem figurada e a – lde.q59
 
 ---
 
-#### `lde.6.2.03` 📃 C
+#### `lde.6.2.03` 🗂️ C
 
 ##### 🟨 Calamidades
 
@@ -8601,7 +8601,7 @@ possibilidade de * da desordem e da imprevidência – lde.q685a
 
 ---
 
-#### `lde.6.2.04` 📃 D
+#### `lde.6.2.04` 🗂️ D
 
 ##### 🟨 Decálogo
 
@@ -9009,7 +9009,7 @@ variações no poder da – lde.q455
 
 ---
 
-#### `lde.6.2.05` 📃 E
+#### `lde.6.2.05` 🗂️ E
 
 ##### 🟨 Eclesiastes
 
@@ -10085,7 +10085,7 @@ sonambulismo e – lde.q439
 
 ---
 
-#### `lde.6.2.06` 📃 F
+#### `lde.6.2.06` 🗂️ F
 
 ##### 🟨 Falibilidade
 
@@ -10411,7 +10411,7 @@ vida corpórea e certeza do – lde.q921
 
 ---
 
-#### `lde.6.2.07` 📃 G
+#### `lde.6.2.07` 🗂️ G
 
 ##### 🟨 Gêmeos
 
@@ -10475,7 +10475,7 @@ santa – lde.q671
 
 ---
 
-#### `lde.6.2.08` 📃 H
+#### `lde.6.2.08` 🗂️ H
 
 ##### 🟨 Harmonia
 
@@ -10619,7 +10619,7 @@ desinteresse e – lde.0.4
 
 ---
 
-#### `lde.6.2.09` 📃 I
+#### `lde.6.2.09` 🗂️ I
 
 ##### 🟨 Ideia
 
@@ -10997,7 +10997,7 @@ sociedade e – lde.q769
 
 ---
 
-#### `lde.6.2.10` 📃 J
+#### `lde.6.2.10` 🗂️ J
 
 ##### 🟨 Jesus
 
@@ -11077,7 +11077,7 @@ consolo do – lde.q926
 
 ---
 
-#### `lde.6.2.11` 📃 L
+#### `lde.6.2.11` 🗂️ L
 
 ##### 🟨 Laços de família
 
@@ -11411,7 +11411,7 @@ chegada ao progresso e – lde.q894
 
 ---
 
-#### `lde.6.2.12` 📃 M
+#### `lde.6.2.12` 🗂️ M
 
 ##### 🟨 Mãe
 
@@ -11915,7 +11915,7 @@ sensibilidade dos espíritos para a – lde.q251
 
 ---
 
-#### `lde.6.2.13` 📃 N
+#### `lde.6.2.13` 🗂️ N
 
 ##### 🟨 Nação
 
@@ -12033,7 +12033,7 @@ importância espiritual do – lde.0.3.12
 
 ---
 
-#### `lde.6.2.14` 📃 O
+#### `lde.6.2.14` 🗂️ O
 
 ##### 🟨 Obsessão
 
@@ -12177,7 +12177,7 @@ benefício e – lde.q888a
 
 ---
 
-#### `lde.6.2.15` 📃 P
+#### `lde.6.2.15` 🗂️ P
 
 ##### 🟨 Pactos
 
@@ -12931,7 +12931,7 @@ aperfeiçoamento moral do Espírito e – lde.q182
 
 ---
 
-#### `lde.6.2.16` 📃 Q
+#### `lde.6.2.16` 🗂️ Q
 
 ##### 🟨 Queda
 
@@ -12939,7 +12939,7 @@ homem, livre-arbítrio e – lde.q262
 
 ---
 
-#### `lde.6.2.17` 📃 R
+#### `lde.6.2.17` 🗂️ R
 
 ##### 🟨 Raças
 
@@ -13399,7 +13399,7 @@ adoração e – lde.q654
 
 ---
 
-#### `lde.6.2.18` 📃 S
+#### `lde.6.2.18` 🗂️ S
 
 ##### 🟨 Sabedoria
 
@@ -13957,7 +13957,7 @@ utilização do necessário e – lde.q736
 
 ---
 
-#### `lde.6.2.19` 📃 T
+#### `lde.6.2.19` 🗂️ T
 
 ##### 🟨 Talismã
 
@@ -14135,7 +14135,7 @@ visitação a – lde.q322
 
 ---
 
-#### `lde.6.2.20` 📃 U
+#### `lde.6.2.20` 🗂️ U
 
 ##### 🟨 Ubiquidade
 
@@ -14177,7 +14177,7 @@ reencarnação e – lde.q173b
 
 ---
 
-#### `lde.6.2.21` 📃 V
+#### `lde.6.2.21` 🗂️ V
 
 ##### 🟨 Vácuo
 
@@ -14433,7 +14433,7 @@ sociedade e – lde.q772
 
 ---
 
-#### `lde.6.2.22` 📃 Z
+#### `lde.6.2.22` 🗂️ Z
 
 ##### 🟨 Zelo
 

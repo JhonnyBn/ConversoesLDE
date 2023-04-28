@@ -42,7 +42,7 @@ with open("livros.json", encoding='utf-8') as arquivo:
 
 #print(livros)
 
-anterior = ""
+anterior = {"tipo": "", "texto": "  "}
 nl = "\n\n"
 with open("output.md", "w", encoding='utf-8') as arquivo:
 	for livro in livros:
@@ -50,17 +50,29 @@ with open("output.md", "w", encoding='utf-8') as arquivo:
 		for parte in livro["partes"]:
 			arquivo.write("## `" + parte["cod"] + "` 🗂️ " + parte["nome"] + nl)
 			for capitulo in parte["capitulos"]:
-				arquivo.write("### `" + capitulo["cod"] + "` 📑 " + capitulo["nome"] + nl)
+				if parte["id"] == 6 and capitulo["id"] == 1:
+					arquivo.write("### `" + capitulo["cod"] + "` 🗃️ " + capitulo["nome"] + nl)
+				else:
+					arquivo.write("### `" + capitulo["cod"] + "` 📑 " + capitulo["nome"] + nl)
 				for item in capitulo["itens"]:
 					if item["nome"]:
-						arquivo.write("#### `" + item["cod"] + "` 📃 " + item["nome"] + nl)
+						if parte["id"] == 6 and capitulo["id"] == 1:
+							arquivo.write("#### `" + item["cod"] + "` 🗂️ " + item["nome"] + nl)
+						else:
+							arquivo.write("#### `" + item["cod"] + "` 📃 " + item["nome"] + nl)
 					for verso in item["versos"]:
 						if verso["tipo"] == "resposta":
+							"""if anterior["tipo"] == "resposta" and \
+							  len(anterior["texto"]) > 3 and len(verso["texto"]) > 3 and \
+							  (anterior["texto"][1] == '"' or anterior["texto"][2] == '"') and \
+							  not (verso["texto"][1] == '"' or verso["texto"][2] == '"'):
+								arquivo.write(filtro(verso, parte, capitulo) + nl)
+							else:"""
 							arquivo.write(filtro(verso, parte, capitulo) + "\n")
-						elif anterior == "resposta":
+						elif anterior["tipo"] == "resposta":
 							arquivo.write("\n" + filtro(verso, parte, capitulo) + nl)
 						else:
 							arquivo.write(filtro(verso, parte, capitulo) + nl)
-						anterior = verso["tipo"]
+						anterior = verso
 
 
