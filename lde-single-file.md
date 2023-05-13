@@ -1,4 +1,4 @@
-﻿# `lde` 📔 O LIVRO DOS ESPÍRITOS
+# `lde` 📔 O LIVRO DOS ESPÍRITOS
 
 ## `lde.0` 🗂️ Parte 0. Pré-textual
 
@@ -446,7 +446,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 ## `lde.1` 🗂️  Parte 1. Das causas primárias
 ### `lde.1.1` 📑 1. De Deus
-#### `lde.1.1.1` 📃 /Deus e o infinito
+#### `lde.1.1.1` 📃 Deus e o infinito
 
 `lde.q1` 1. O que é Deus?
 
@@ -6849,10 +6849,10 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 faculdades do homem e – lde.q847
 
 ##### 🟨 Aborto
-consequências do – lde.q357\
-gestação e – lde.q358\
-provocação do – lde.q358\
-vida da mãe em perigo e – lde.q359\
+consequências do – lde.q357
+gestação e – lde.q358
+provocação do – lde.q358
+vida da mãe em perigo e – lde.q359
 
 ##### 🟨 Abuso
 direito e – lde.q734

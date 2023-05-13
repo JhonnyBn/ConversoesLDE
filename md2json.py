@@ -31,10 +31,10 @@ import json
 
 def verificar_tipo(linha, parte):
 	if 1 <= parte <= 4:
-		if linha[0].isnumeric():
+		"""if linha[0].isnumeric():
 			return "pergunta"
 		if linha[0] == "[" and linha[1].isnumeric():
-			return "pergunta"
+			return "pergunta" """
 		if linha[0] == "`" and linha[6].isnumeric():
 			return "pergunta"
 	if linha[0] == ">":
@@ -74,7 +74,7 @@ def remove_nl(line):
 	return line[:-1] if line[-1:] == "\n" else line
 
 livros = []
-with open("lde-single-file.md", encoding="utf8") as arquivo:
+with open("1lde-single-file.md", encoding="utf8") as arquivo:
 	livro = parte = capitulo = item = verso = -1
 	for linha in arquivo:
 		if not linha or linha == "\n":
